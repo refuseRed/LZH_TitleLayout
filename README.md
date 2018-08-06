@@ -13,3 +13,4 @@ titleLayoutView.delegate = self ;
 
 [self.view addSubview:titleLayoutView];
 
+https://github.com/refuseRed/LZH_TitleLayout/blob/master/Snip20180806_2.png
